@@ -3,7 +3,8 @@ def board():
     a="0123456789ABCDEF"
     print(" "+a)
     for n in a:
-        print(n)
+        print(n+(" "*16)+n)
+    print(" "+a)
 def printxyz(values):
     print("x,y="+str(values))
 
@@ -62,7 +63,7 @@ board()
 for n in aaa:
     draw(n)
 
-y=19
+y=20
 x=1
 xy="\033["+str(y)+";"+str(x)+"H\n"
 print(xy,end="")
