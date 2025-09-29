@@ -6,3 +6,6 @@ I'm developing a theory to explain 3D movement in the notion of time to my frien
 In the first 2 hours, it is in sector 0,0 because it goes to sleep there. It moves to sector 6,6 as it gets thirsty. Every 2 hours, it is in a new sector. If it gets thirsty, it will move to sector 6,6 where there is a watercourse, and to sector 6,a when it is hungry.
 
 
+But then I introduced the story of a monkey, who lives in sector 6,6 where there is water, but the monkey exists in a 3D space when it coexists with the tiger it has to climb the trees to avoid being caught by the tiger.
+
+
