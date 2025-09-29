@@ -51,11 +51,12 @@ def draw(a):
     x,y=a
     y=y+4
     x=x+2
-    xy="\033["+str(y)+";"+str(x)+"dX"
+    
+    xy="\033["+str(y)+";"+str(x)+"HX"
     print(xy,end="")
     
 print("\033c\033[43;30m\n")
-aaa=build(8,3,2)
+aaa=build(8,2,2)
 board()
 #printv(aaa)
 for n in aaa:
@@ -63,6 +64,6 @@ for n in aaa:
 
 y=19
 x=1
-xy="\033["+str(y)+";"+str(x)+"d\n"
+xy="\033["+str(y)+";"+str(x)+"H\n"
 print(xy,end="")
 
