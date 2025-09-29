@@ -8,4 +8,4 @@ In the first 2 hours, it is in sector 0,0 because it goes to sleep there. It mov
 
 But then I introduced the story of a monkey, who lives in sector 6,6 where there is water, but the monkey exists in a 3D space when it coexists with the tiger it has to climb the trees to avoid being caught by the tiger.
 
-
+And a bird that moves in 3D space when the tiger is in sector 6, the bird flees to sector 6,6 to drink water?
